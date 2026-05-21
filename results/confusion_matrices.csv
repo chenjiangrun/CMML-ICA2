@@ -1,0 +1,16 @@
+dataset,method,true_positive,false_positive,true_negative,false_negative
+pilot_simulated,DoubletFinder,22,0,260,18
+pilot_simulated,Scrublet,22,12,248,18
+pilot_simulated,scDblFinder,25,1,259,15
+sim_easy_13pct,DoubletFinder,26,0,260,14
+sim_easy_13pct,Scrublet,32,4,256,8
+sim_easy_13pct,scDblFinder,11,1,259,29
+sim_homotypic_13pct,DoubletFinder,18,8,252,22
+sim_homotypic_13pct,Scrublet,4,1,259,36
+sim_homotypic_13pct,scDblFinder,22,8,252,18
+sim_low_rate_3pct,DoubletFinder,7,0,300,3
+sim_low_rate_3pct,Scrublet,9,0,300,1
+sim_low_rate_3pct,scDblFinder,9,1,299,1
+sim_subtle_13pct,DoubletFinder,26,0,260,14
+sim_subtle_13pct,Scrublet,31,22,238,9
+sim_subtle_13pct,scDblFinder,37,2,258,3

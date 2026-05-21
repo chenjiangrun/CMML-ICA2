@@ -1,0 +1,16 @@
+dataset,method,n_cells,n_true_doublets,calibrated_precision,calibrated_recall,calibrated_f1,thresholding
+pilot_simulated,DoubletFinder,300,40,0.75,0.75,0.75,top_true_doublet_count_by_score
+pilot_simulated,Scrublet,300,40,0.575,0.575,0.575,top_true_doublet_count_by_score
+pilot_simulated,scDblFinder,300,40,0.85,0.85,0.85,top_true_doublet_count_by_score
+sim_easy_13pct,DoubletFinder,300,40,0.925,0.925,0.925,top_true_doublet_count_by_score
+sim_easy_13pct,Scrublet,300,40,0.825,0.825,0.825,top_true_doublet_count_by_score
+sim_easy_13pct,scDblFinder,300,40,0.75,0.75,0.75,top_true_doublet_count_by_score
+sim_homotypic_13pct,DoubletFinder,300,40,0.55,0.55,0.55,top_true_doublet_count_by_score
+sim_homotypic_13pct,Scrublet,300,40,0.25,0.25,0.25,top_true_doublet_count_by_score
+sim_homotypic_13pct,scDblFinder,300,40,0.725,0.725,0.7250000000000001,top_true_doublet_count_by_score
+sim_low_rate_3pct,DoubletFinder,310,10,0.9,0.9,0.9,top_true_doublet_count_by_score
+sim_low_rate_3pct,Scrublet,310,10,0.9,0.9,0.9,top_true_doublet_count_by_score
+sim_low_rate_3pct,scDblFinder,310,10,0.9,0.9,0.9,top_true_doublet_count_by_score
+sim_subtle_13pct,DoubletFinder,300,40,0.85,0.85,0.85,top_true_doublet_count_by_score
+sim_subtle_13pct,Scrublet,300,40,0.75,0.75,0.75,top_true_doublet_count_by_score
+sim_subtle_13pct,scDblFinder,300,40,0.925,0.925,0.925,top_true_doublet_count_by_score
